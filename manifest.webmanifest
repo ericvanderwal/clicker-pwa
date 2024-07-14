@@ -3,7 +3,7 @@
     "short_name": "uClicker",
     "start_url": "index.html",
     "display": "fullscreen",
-    "background_color": "#BF3B00",
+    "background_color": "#569BBF",
     "theme_color": "#000",
     "description": "Mr PWA",
     "icons": [{

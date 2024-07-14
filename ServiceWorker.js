@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-uClicker-";
 const contentToCache = [
-    "Build/PWA.loader.js",
-    "Build/PWA.framework.js",
-    "Build/PWA.data",
-    "Build/PWA.wasm",
+    "Build/ClickerUI.loader.js",
+    "Build/ClickerUI.framework.js",
+    "Build/ClickerUI.data",
+    "Build/ClickerUI.wasm",
     "TemplateData/style.css"
 
 ];
